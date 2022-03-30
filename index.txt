@@ -3,3 +3,4 @@ index2
 <p>GitHub Flow<p>
 git status
 git diff
+git commit　--amend
